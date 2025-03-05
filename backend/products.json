@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Relaxation Tea",
+      "type": "beverage",
+      "description": "A soothing herbal tea blend designed for relaxation and stress relief.",
+      "effects": ["relaxation", "stress relief"],
+      "ingredients": ["Chamomile", "Lavender"],
+      "price": 12.99,
+      "sales_data": {
+        "units_sold": 120,
+        "last_month_revenue": 1558.8
+      }
+    }
+  ]
+  
